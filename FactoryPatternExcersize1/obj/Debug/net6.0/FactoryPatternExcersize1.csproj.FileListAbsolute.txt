@@ -1,0 +1,15 @@
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\bin\Debug\net6.0\FactoryPatternExcersize1.exe
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\bin\Debug\net6.0\FactoryPatternExcersize1.deps.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\bin\Debug\net6.0\FactoryPatternExcersize1.runtimeconfig.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\bin\Debug\net6.0\FactoryPatternExcersize1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\bin\Debug\net6.0\FactoryPatternExcersize1.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.csproj.AssemblyReference.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.AssemblyInfoInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.AssemblyInfo.cs
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.csproj.CoreCompileInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\refint\FactoryPatternExcersize1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\FactoryPatternExcersize1.genruntimeconfig.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningFactoryPattern\FactoryPatternExcersize1\FactoryPatternExcersize1\obj\Debug\net6.0\ref\FactoryPatternExcersize1.dll
